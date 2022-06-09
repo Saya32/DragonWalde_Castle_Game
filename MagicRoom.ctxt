@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MagicRoom
+comment0.text=\r\n\ This\ is\ a\ MagicRoom\ class,\ extended\ class\ of\ Room\ class.\ Every\ time\ the\ character\ enter\ this\ room\ it\ will\ transport\ them\ to\ a\ random\ room\ in\ the\ game.\r\n\r\n\ @aurthor\ Sayaka\ Bhandari\r\n\ @version\ 2021.12.01\r\n
+comment1.params=description\ randomRoom
+comment1.target=MagicRoom(java.lang.String,\ RoomRandomiser)
+comment2.params=direction
+comment2.target=Room\ getExit(java.lang.String)
+comment2.text=\r\n\ @param\ uses\ direction\ if\ it\ cannot\ find\ the\ random\ room\ to\ exit\ from.\r\n\ @return\ a\ random\ room\ \r\n
+numComments=3

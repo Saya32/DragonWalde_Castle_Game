@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Items
+comment0.text=\r\n\ Items\ -\ items\ are\ stored\ in\ a\ different\ location\ in\ the\ game.\r\n\r\n\ This\ item\ is\ part\ of\ the\ "Dragonwalde\ Castle"\ application.\ \r\n\ "Dragonwalde\ Castle"\ is\ a\ very\ simple,\ text\ based\ adventure\ game.\ \ \r\n\r\n\ A\ "Items"\ represents\ an\ objects\ in\ the\ scenery\ of\ the\ game.\r\n\ Every\ room\ contains\ differnt\ items\ which\ will\ aid\ you\ to\ complete\ this\ game.\r\n\r\n\ @author\ Sayaka\ Bhandari\r\n\ @version\ 2021.11.23\r\n
+comment1.params=name\ description\ weight
+comment1.target=Items(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ Create\ an\ item\ described\ "description".\ Initially,\ it\ has\r\n\ no\ description.\ "description"\ is\ something\ like\ "a\ gun"\ or\r\n\ "a\ sword".\r\n\ @param\ description\ The\ item's\ description.\r\n\ @param\ weight\ The\ item's\ weight.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getItemDescription()
+comment2.text=\r\n\ @return\ description\ of\ item\r\n
+comment3.params=
+comment3.target=java.lang.String\ getItemName()
+comment3.text=\r\n\ Get\ the\ name\ of\ the\ item\r\n
+comment4.params=
+comment4.target=java.lang.String\ getItemsDescriptions()
+comment4.text=\r\n\ Get\ the\ description\ of\ an\ item\r\n
+comment5.params=
+comment5.target=int\ getWeight()
+comment5.text=\r\n\ Get\ the\ weight\ of\ an\ item\r\n
+numComments=6
