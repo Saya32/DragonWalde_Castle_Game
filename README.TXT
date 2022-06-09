@@ -1,27 +1,4 @@
-Project: zuul-better
-Authors: Michael Kölling and David J. Barnes
+Project:  Dragonwalde Castle Game
+Authors: Michael Kölling and David J. Barnes and Sayaka Bhandari
 
-This project is part of the material for the book
-
-   Objects First with Java - A Practical Introduction using BlueJ
-   Sixth edition
-   David J. Barnes and Michael Kölling
-   Pearson Education, 2016
-   
-This project is a simple framework for an adventure game. In this version,
-it has a few rooms and the ability for a player to walk between these rooms.
-That's all.
-
-To start this application, create an instance of class "Game" and call its
-"play" method.
-
-This project was written as the starting point of a small Java project.
-
-The goal is to extend the game:
-
-  - add items to rooms (items may have weight)
-  - add multiple players
-  - add commands (pick, drop, examine, read, ...)
-  - (anything you can think of, really...)
-
-Read chapter 8 of the book to get a detailed description of the project.
+The game is called Dragonwalde Castle. This game is like a maze, the user must find a rare Dragon's egg hidden away in the Dragonwalde Castle and escape the castle with the egg. The user can find the rare egg in the Solar room inside the castle, to reach there the user must discover different rooms, where they can find different items and help them reach the Solar room, where the egg is. There are many additional command words the user can use to win the game, such as pick, drop, eat, nap, sit, back, and look.
